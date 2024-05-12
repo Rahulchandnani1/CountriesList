@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93d8db11.css",
+    "main.js": "/static/js/main.e04cd71c.js",
+    "static/js/453.ab62d2b1.chunk.js": "/static/js/453.ab62d2b1.chunk.js",
+    "index.html": "/index.html",
+    "static/media/call-made.svg": "/static/media/call-made.6c297845e61b055e9799f6c97f10240e.svg",
+    "main.93d8db11.css.map": "/static/css/main.93d8db11.css.map",
+    "main.e04cd71c.js.map": "/static/js/main.e04cd71c.js.map",
+    "453.ab62d2b1.chunk.js.map": "/static/js/453.ab62d2b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93d8db11.css",
+    "static/js/main.e04cd71c.js"
+  ]
+}
